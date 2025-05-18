@@ -1,7 +1,8 @@
 # jav-gam
 1. Player Movement
 2. Map maker tool
-## game
+## run
+### game
 ```java Main.java```
-## map maker
+### map maker
 ```java tools/MapMaker.java```
