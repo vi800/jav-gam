@@ -4,4 +4,4 @@
 ## game
 java Main.java
 ## map maker
-java MapMaker.java
+java tools/MapMaker.java
