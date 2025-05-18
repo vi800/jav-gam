@@ -147,6 +147,7 @@ class Panel extends JPanel implements MouseListener, KeyListener
 				f.write("\n");
 			}
 			f.close();
+			System.out.println("Saved to /map/"+map);
 		} catch(IOException e) {
 			e.printStackTrace();
 		}
